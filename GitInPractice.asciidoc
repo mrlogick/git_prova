@@ -1,6 +1,0 @@
-questo è un bellissimissimo file
-w linux! Ma perché sono fighissimo?
-Son fatto cosí e colà; Paraponzipo'.
-Linux è un kernel monolitico, non microkernel.
-
-Eppur si muove
